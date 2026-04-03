@@ -11,10 +11,6 @@
 
 ---
 
-## 🎯 About Me
-
-I'm passionate about bridging the gap between AI, robotics, and real-world applications. My work focuses on creating systems that are not just technically sound, but also intuitive and useful for people.
-
 **Recent highlights:**
 - 🤖 ROS 2-based UAV–UGV disaster monitoring with energy-aware coordination
 - 🎯 Deep learning for handwriting recognition (CRNN + BiLSTM)
