@@ -15,7 +15,7 @@
 - 🤖 ROS 2-based UAV–UGV disaster monitoring with energy-aware coordination
 - 🎯 Deep learning for handwriting recognition (CRNN + BiLSTM)
 - 📱 Human-centered mobile app design for international students
-- 🔌 Real-time networked messaging systems
+- 🔌 Real-time messaging systems
 
 ---
 
@@ -66,7 +66,7 @@ Python · JavaScript · Go · Java · C# · SQL
 PyTorch · OpenCV · TensorFlow
 
 **Robotics & Systems**  
-ROS 2 · Gazebo · Linux · Docker
+ROS 2 · Linux · Docker
 
 **Web & Mobile**  
 Flask · React Native · Firebase · WordPress
